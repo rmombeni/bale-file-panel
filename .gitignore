@@ -1,0 +1,17 @@
+# داده‌های محلی و محرمانه را کامیت نکنید
+config.php
+config.php.bak
+storage/
+data.php
+
+# اسکریپت‌های موقت و لاگ‌ها
+_*.php
+*.log
+install-error.log
+
+# بسته‌های فشرده
+*.zip
+
+# فایل‌های سیستمی
+.DS_Store
+Thumbs.db
